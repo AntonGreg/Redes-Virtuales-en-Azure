@@ -91,3 +91,13 @@ Tras esto se nos conectara con nuestra cuenta de Azure, iniciaremos sesión y se
 Por ultimo hemos de revisar la pertenencia al rol "Windows Admin Center Administrator Login" Role dentro de Acces control (IAM)
 
 ![](img/img11.png)
+
+**Windows Defender**
+
+Habilitamos dentro de cada maquina las reglas ICMP(En W10 y Wserv) para habilitar el ping en LAN entre nuestros equipos
+
+Dentro de WServ19 añadimos ***roles y características de Web Services*** IIS
+
+Comprobamos en lan y editamos la pagina a traves de esta ruta *C:\inetpub\wwwroot* **via CMD**
+
+![](C:\Repositorios\Redes-Virtuales-en-Azure\img\img12.png)
