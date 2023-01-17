@@ -2,7 +2,7 @@
 
 Hoy aprenderemos a unir dos maquinas virtuales en Azure a través de una misma red. Este es el diagrama que nos daría la respuesta ante esta necesidad:
 
-![](img/img1.png)
+![](img/Img1.png)
 
 ## Paso 1
 
